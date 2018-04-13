@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Hubblo</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="sharedoc">Hubblo est une  application rapide, simple et sure que j\'utilise. \n \n En telechargement gratuit ici: \n https://www.site.com </string>
+    <string name="shareit">Share via</string>
+    <string name="version">Version Beta</string>
+
+    <!-- Profile -->
+    <string name="profil">Profil</string>
+    <string name="logout">Logout</string>
+    <string name="progress">Please wait</string>
+    <string name="saving">Saving Change</string>
+    <string name="savingWait">Please wait while we save the change.</string>
+    <string name="savingError">There was some error is saving changes.</string>
+    <string name="uplode">Uploding</string>
+    <string name="uploding">Please wait while we upload and process the image</string>
+
+    <!-- Progress Sign Up -->
+    <string name="progress_title">Register User</string>
+    <string name="progress_msg">Please wait while we create your account !</string>
+
+    <!-- Progress Sign In -->
+    <string name="progress_titleIn">Login In</string>
+    <string name="progress_msgIn">Please wait while we check your credentials.</string>
+
+    <!-- facebook login -->
+    <string name="FACEBOOK_APP_ID">382241305578867</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">c41c5d49c4c3cc351067a2b5cbb166c0</string>
+    <string name="ak_login_protocol_scheme">akc41c5d49c4c3cc351067a2b5cbb166c0</string>
+
+    <!-- Firebase -->
+    <string name="empty_mail">Enter email address !</string>
+    <string name="empty_name">Enter username !</string>
+    <string name="empty_password">Enter password !</string>
+    <string name="empty_min">Password too short, enter minimum 6 Character !</string>
+    <string name="auth_error">Cannot Sign up. Please check the form and try again.</string>
+    <string name="auth_errorIn">Cannot Sign in. Please check the form and try again.</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="don_t_have_an_account">Don\'t have an account</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="terms_of_use">Terms of Use</string>
+    <string name="privacy_policy">Privacy Policy</string>
+
+    <string name="terms">fff</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+
+</resources>

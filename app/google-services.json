@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "105291961940",
+    "firebase_url": "https://hubblo-4299e.firebaseio.com",
+    "project_id": "hubblo-4299e",
+    "storage_bucket": "hubblo-4299e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105291961940:android:d844f1b17f65cc41",
+        "android_client_info": {
+          "package_name": "braintech.cg.hubblo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105291961940-lgqq82ub949b4kl94bnpa4vkpv7up6re.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "braintech.cg.hubblo",
+            "certificate_hash": "36272eacc6224aac4b1caf8fb7e24a688acbf717"
+          }
+        },
+        {
+          "client_id": "105291961940-52duhetms8mc45v0jc0fab34srf781kj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD1sOKBFlNv5PKi6A3cdmnU0gbLlffh5o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105291961940-52duhetms8mc45v0jc0fab34srf781kj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

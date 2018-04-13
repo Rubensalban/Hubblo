@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4183D7</color>
+    <color name="colorPrimaryDark">#4183D7</color>
+    <color name="colorAccent">#22a7f0</color>
+
+    <!-- Custom Color -->
+
+    <color name="colorSherpaBlue">#013243</color>
+    <color name="colorRoyalBlue">#4183D7</color>
+    <color name="colorPictonBlue">#2a97d2</color>
+    <color name="colorMadisson">#2c3e50</color>
+    <color name="graylight">#fafafa</color>
+    <color name="primarydark">#3F51B5</color>
+    <color name="white">#fff</color>
+
+    <color name="appel">#22a7f0</color>
+</resources>
